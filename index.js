@@ -1,2 +1,2 @@
 console.log("Hello git !");
-alert("welcome to my app")
+alert("welcome to my app");
